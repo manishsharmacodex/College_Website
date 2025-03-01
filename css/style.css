@@ -188,7 +188,7 @@ body {
 }
 
 
-
+/* code for mobile responsive */
 @media (max-width: 420px){
     .navigation-bar{
         display: none;
