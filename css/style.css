@@ -186,3 +186,11 @@ body {
     text-align: center;
     font-size: 14px;
 }
+
+
+
+@media (max-width: 420px){
+    .navigation-bar{
+        display: none;
+    }
+}
